@@ -1,0 +1,37 @@
+.Cabecera1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:50px;
+    color: red;
+}
+
+#Navegador{
+
+    background-color: blue;
+    color: white;
+
+}
+#pie{
+    text-align: center;
+    padding: 20px;
+    border: 2px red solid;
+}
+
+[href]{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+;
+color: blueviolet;
+
+}
+.boton{
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+}
+ul {
+    list-style-type: none;
+  }
+  
+  li {
+    background-color: #F6E3CA;
+    float: left;
+  }
